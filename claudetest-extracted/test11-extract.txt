@@ -1,0 +1,2 @@
+Start Timestamp (seconds)
+10.683594
